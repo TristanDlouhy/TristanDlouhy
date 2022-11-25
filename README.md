@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 ![](https://komarev.com/ghpvc/?username=TristanDlouhy)
+---
+I'm Tristan, a 36 year-old developer from Germany.
+
 
 <!--
 **TristanDlouhy/TristanDlouhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
