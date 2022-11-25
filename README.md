@@ -4,7 +4,7 @@ I'm Tristan, a 36 year-old developer from Germany.
 
 ### Connect with me
 ---
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tristan-dlouhy/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tristan-dlouhy/)](https://www.linkedin.com/in/tristan-dlouhy/)
 
 <!--
 **TristanDlouhy/TristanDlouhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
