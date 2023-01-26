@@ -1,24 +1,18 @@
-<h1 align="center"> 👋 Hi there 👋 </h1>
+<h1 align="center">👋 Hi there 👋</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TristanDlouhy" />
 </p>
 
-<h2 align="center"> 👨‍💻 Whoami</h2>
+<h2 align="center">👨‍💻 Whoami</h2>
 I'm Tristan, a 36 year-old developer from Germany.
 
 <hr />
 
 <h2 align="center">📫 How to reach me</h2>
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/tristan-dlouhy">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
-  <a target="_blank" href="https://www.xing.com/profile/Tristan_Dlouhy">
-    <img alt="Xing" src="https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white" />
-  </a>&nbsp;
-  <a target="_blank" href="https://www.udemy.com/user/tristan-dlouhy">
-    <img alt="Udemy" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" />
-  </a>&nbsp;
+  <a target="_blank" href="https://www.linkedin.com/in/tristan-dlouhy"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a target="_blank" href="https://www.xing.com/profile/Tristan_Dlouhy"><img alt="Xing" src="https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white" /></a>&nbsp;
+  <a target="_blank" href="https://www.udemy.com/user/tristan-dlouhy"><img alt="Udemy" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" /></a>&nbsp;
 </p>
 
 <hr />
@@ -87,7 +81,7 @@ I'm Tristan, a 36 year-old developer from Germany.
 
 <hr />
 
-<h1 align="center"> 💬 Random Dev Quote </h1>
+<h2 align="center">💬 Random Dev Quote </h2>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
